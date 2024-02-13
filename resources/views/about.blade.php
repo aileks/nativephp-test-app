@@ -9,11 +9,10 @@
 </head>
 <body>
     <div>
-        <a href="/about">About</a>
-        <a href="?openwindow=true">Open Window</a>
+        <a href="/">Home</a>
     </div>
     <div>
-        Hello there!
+        This is the about page.
     </div>
 </body>
 </html>
